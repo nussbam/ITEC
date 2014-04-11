@@ -1,0 +1,11 @@
+h2  { color: #78A848; }
+h2 a:hover { color: #189048; }
+
+
+#sidebar{
+    background-color: #78A848;
+    
+}
+#wrapper { background-image:url("../images/monster_green.png"); }
+
+#content h3 { color:#78A848; }
